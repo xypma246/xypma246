@@ -13,14 +13,14 @@
 Характеристики персонажа
 
 Имя персонажа:	Ole4ka
-Класс:	QA Engineer
-Специализация:	Manual QA → Python AQA
-Роль в пати:	Damage
-Основное оружие:	Python
-Второе оружие:	Java
-Гильдия:	BigTech / FinTech Testing
-Маунт:	Lada Granta
-Текущий квест:	Прокачаться в уверенного AQA-инженера
+Класс:	QA Engineer<br>
+Специализация:	Manual QA → Python AQA<br>
+Роль в пати:	Damage<br>
+Основное оружие:	Python<br>
+Второе оружие:	Java<br>
+Гильдия:	BigTech / FinTech Testing<br>
+Маунт:	Lada Granta<br>
+Текущий квест:	Прокачаться в уверенного AQA-инженера<br>
 
 <p align="center">
   <img src=./bottle_divider.png width="90%"/>
@@ -29,13 +29,13 @@
 Основные статы
 
 QA Core   	█████████░ 90%
-API Testing	████████░░ 80%
-SQL	        ███████░░░ 70%
-Python	    ██████░░░░ 60%
-Pytest	    █████░░░░░ 50%
-Kafka	      █████░░░░░ 50%
-Git	        ██████░░░░ 60%
-Confidence	███████░░░ 70%
+API Testing	████████░░ 80%<br>
+SQL	        ███████░░░ 70%<br>
+Python	    ██████░░░░ 60%<br>
+Pytest	    █████░░░░░ 50%<br>
+Kafka	      █████░░░░░ 50%<br>
+Git	        ██████░░░░ 60%<br>
+Confidence	███████░░░ 70%<br>
 
 
 🛠️ Инвентарь
