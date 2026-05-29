@@ -1,43 +1,41 @@
 <h1 align="center">⚔️ Ole4ka ⚔️</h1>
-
 <p align="center">
-  <b>QA Engineer · Python AQA Apprentice · Bug Hunter</b>
+  <b>QA Engineer · Python AQA</b>
+</p>
+<p align="center">
+  <i>«Если багов нет, сделай их сам»</i>
 </p>
 
-<p align="center">
-  <i>"No bug shall pass unnoticed. No flaky test shall survive the night."</i>
-</p>
+⸻
 
----
+🧝 Лист персонажа
 
-## 🧝 Character Profile
+Параметр	Значение
+Имя персонажа	Ole4ka
+Класс	QA Engineer
+Специализация	Manual QA → Python AQA
+Роль в пати	Ломаю аккуратно, проверяю внимательно, документирую понятно
+Основное оружие	Любопытство
+Второе оружие	Python
+Гильдия	BigTech / FinTech Testing
+Маунт	Lada Granta, цвет Борнео
+Текущий квест	Прокачаться в уверенного AQA-инженера
 
-- **Name:** Ole4ka
-- **Class:** QA Engineer
-- **Specialization:** Manual Testing → Python Automation
-- **Current Quest:** Become a strong AQA Engineer
-- **Main Weapon:** Curiosity
-- **Secondary Weapon:** Python
-- **Guild:** BigTech / FinTech Testing
-- **Mount:** Lada Granta, Borneo color
-- **Companions:** Prisya the Sphynx, Yurik the Tabby Cat
 
----
+🧪 Характеристики
 
-## 🧪 Class Skills
+Стат	Прогресс
+QA Core	█████████░ 90%
+API Testing	████████░░ 80%
+SQL	███████░░░ 70%
+Python	██████░░░░ 60%
+Pytest	█████░░░░░ 50%
+Kafka	█████░░░░░ 50%
+Git	██████░░░░ 60%
+Confidence	███████░░░ 70%
 
-| Skill | Level | Description |
-|---|---:|---|
-| Manual Testing | ⭐⭐⭐⭐⭐ | Finding bugs before they find users |
-| API Testing | ⭐⭐⭐⭐☆ | Checking endpoints, statuses, payloads and business logic |
-| Python | ⭐⭐⭐☆☆ | Growing automation powers day by day |
-| SQL | ⭐⭐⭐☆☆ | Digging into data like a dwarf in the mines |
-| Kafka | ⭐⭐⭐☆☆ | Reading messages from the void |
-| Git | ⭐⭐⭐☆☆ | Sometimes fighting merge conflicts like raid bosses |
 
----
-
-## 🛠️ Inventory
+🛠️ Инвентарь
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -49,89 +47,87 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
 
-## 📜 Active Quests
+📜 Журнал квестов
 
-- 🐍 Learn Python deeply enough to write clean and stable autotests
-- 🧪 Build API automation projects with Pytest
-- 🧾 Improve test design and test documentation
-- 🧵 Understand Kafka-based integrations
-- 🏰 Grow from QA Engineer into confident AQA Engineer
-- 🐾 Keep two cats alive, spoiled and slightly overweight
+Основная сюжетная линия
 
----
+* 🐍 Прокачать Python до уровня, где автотесты пишутся чисто, стабильно и без шаманства
+* 🧪 Научиться уверенно строить API-автотесты на Pytest
+* 🧵 Разобраться с Kafka-интеграциями и событиями между сервисами
+* 🗄️ Укрепить SQL для проверок данных и расследования багов
+* 🏰 Вырасти из QA Engineer в уверенного Python AQA Engineer
 
-## 🗺️ Known Territories
+Побочные квесты
 
-- REST API testing
-- Test design
-- Bug reports
-- SQL checks
-- Kafka events
-- Python basics
-- Pytest structure
-- Git workflow
-- CI/CD basics
-- Allure reports
+* 📚 Вести базу знаний по тестированию и автоматизации
+* 🧾 Улучшать тест-дизайн и тестовую документацию
+* 🛡️ Писать проверки так, чтобы отчёты были понятны не только мне, но и всей команде
+* 🐾 Следить, чтобы два кота были живы, избалованы и слегка пухлые
 
----
 
-## 🐉 Bosses Defeated
+🗺️ Открытые территории
 
-- 🐛 Hidden bugs in business logic
-- 🔥 Broken test data
-- 🧟 Unstable environments
-- 🕳️ “It works on my machine”
-- 🧙 Strange backend magic with no documentation
-- ⚔️ Fear of starting automation
+Локация	Статус
+REST API	Исследовано
+Postman	Исследовано
+SQL-проверки	Исследовано
+Git workflow	Исследуется
+Pytest	Исследуется
+Allure reports	Исследуется
+Kafka events	Опасная зона, но вход открыт
+CI/CD	Туман войны постепенно рассеивается
 
----
 
-## 🔮 Current Build
+🐉 Рейд-боссы, с которыми уже приходилось драться
 
-| Stat | Progress |
-|---|---:|
-| QA Core | 90% |
-| API Testing | 80% |
-| Python | 60% |
-| Automation | 50% |
-| Kafka | 50% |
-| Confidence | 70% |
+* 🐛 Баги, которые прячутся в бизнес-логике
+* 🔥 Сломанные тестовые данные
+* 🧟 Нестабильные окружения
+* 🕳️ «У меня локально работает»
+* 🧙 Backend-магия без документации
+* ⚔️ Merge conflict, внезапно появившийся перед коммитом
+* 🧊 Флакающие тесты, которые проходят только по настроению
 
----
 
-## 🏹 Pet Projects
+🏆 Достижения
 
-| Project | Type | Status |
-|---|---|---|
-| Telegram Orders Bot | Python / Bot / Business Logic | In progress |
-| API Autotests | Python / Pytest / REST API | In progress |
-| QA Knowledge Base | Notes / Testing Theory | Always growing |
+Achievement	Status
+First bug report	Unlocked
+API testing unlocked	Unlocked
+SQL checks unlocked	Unlocked
+Git panic survived	Unlocked
+Kafka curiosity activated	Unlocked
+Python automation path started	In progress
+Stable autotest build	In progress
+AQA confidence	Loading…
 
----
 
-## 🐾 Companions
+🏹 Пет-проекты
 
-- **Prisya** — sphynx cat, jelly enjoyer
-- **Yurik** — tabby cat, dry food destroyer
+Проект	Тип	Статус
+Telegram Orders Bot	Python / Telegram Bot / Business Logic	В процессе
+API Autotests	Python / Pytest / REST API	В процессе
+QA Knowledge Base	Notes / Testing Theory	Постоянно пополняется
 
-They do not write tests, but they strongly supervise the process.
 
----
+🐾 Спутники
 
-## 🌙 About Me
+Спутник	Описание
+Прися	Сфинкс, ценительница желе
+Юрик	Полосатый кот, уничтожитель сухого корма
 
-I am a QA Engineer moving toward Python automation.
+Они не пишут автотесты, но строго контролируют процесс разработки.
 
-I like understanding how systems work, breaking things carefully, and turning chaos into clear test cases.
 
-My main goal is to become the kind of engineer who can test not only buttons and forms, but complex backend logic, integrations, events, APIs and data flows.
+🌙 Обо мне
 
-Also, I believe every good project deserves clean tests, readable reports and at least one cat nearby.
+Я QA-инженер, который движется в сторону автоматизации на Python.
 
----
+Мне нравится разбираться, как работают системы, аккуратно ломать сложные сценарии и превращать хаос в понятные тест-кейсы, проверки и отчёты.
+
+Моя цель — стать инженером, который умеет тестировать не только кнопки и формы, но и backend-логику, API, интеграции, события, данные и всё то странное, что обычно живёт между сервисами.
+
 
 <p align="center">
-  <b>For the Alliance. For clean tests. For zero critical bugs in production.</b>
-</p>
+  <b>За чистые тесты. За понятные отчёты. За ноль критичных багов на проде.</
