@@ -6,7 +6,9 @@
   <i>«Если багов нет, сделай их сам»</i>
 </p>
 
-⸻
+<p align="center">
+  <img src=./horde_divider_png.png width="100%"/>
+</p>
 
 🧝 Лист персонажа
 
