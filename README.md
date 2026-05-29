@@ -7,33 +7,34 @@
 </p>
 
 <p align="center">
-  <img src=./horde_divider_png_1.png width="100%"/>
+  <img src=./horde_divider_png_1.png width="90%"/>
 </p>
 
-🧝 Лист персонажа
+Характеристики персонажа
 
-Параметр	Значение
-Имя персонажа	Ole4ka
-Класс	QA Engineer
-Специализация	Manual QA → Python AQA
-Роль в пати	Ломаю аккуратно, проверяю внимательно, документирую понятно
-Основное оружие	Любопытство
-Второе оружие	Python
-Гильдия	BigTech / FinTech Testing
-Маунт	Lada Granta, цвет Борнео
-Текущий квест	Прокачаться в уверенного AQA-инженера
+Имя персонажа:	Ole4ka
+Класс:	QA Engineer
+Специализация:	Manual QA → Python AQA
+Роль в пати:	Damage
+Основное оружие:	Python
+Второе оружие:	Java
+Гильдия:	BigTech / FinTech Testing
+Маунт:	Lada Granta
+Текущий квест:	Прокачаться в уверенного AQA-инженера
 
+<p align="center">
+  <img src=./bottle_divider.png width="90%"/>
+</p>
 
-🧪 Характеристики
+Основные статы
 
-Стат	Прогресс
-QA Core	█████████░ 90%
+QA Core   	█████████░ 90%
 API Testing	████████░░ 80%
-SQL	███████░░░ 70%
-Python	██████░░░░ 60%
-Pytest	█████░░░░░ 50%
-Kafka	█████░░░░░ 50%
-Git	██████░░░░ 60%
+SQL	        ███████░░░ 70%
+Python	    ██████░░░░ 60%
+Pytest	    █████░░░░░ 50%
+Kafka	      █████░░░░░ 50%
+Git	        ██████░░░░ 60%
 Confidence	███████░░░ 70%
 
 
