@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src=./horde_divider_png.png width="100%"/>
+  <img src=./horde_divider_png.PNG width="100%"/>
 </p>
 
 🧝 Лист персонажа
